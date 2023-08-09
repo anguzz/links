@@ -1,6 +1,6 @@
 <script lang="ts">
     import { QRCodeImage } from "svelte-qrcode-image";
-    let links_url = "https://www.links.angs.dev/";
+    let links_url = "https://links.angs.dev/";
 </script>
 
 <div class="container">
